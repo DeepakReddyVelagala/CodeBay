@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+*.cph
 
 # Compiled Object files
 *.slo
